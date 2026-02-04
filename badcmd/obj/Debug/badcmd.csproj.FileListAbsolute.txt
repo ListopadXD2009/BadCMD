@@ -1,0 +1,8 @@
+C:\Users\sapph\source\repos\badcmd\badcmd\bin\Debug\badcmd.exe.config
+C:\Users\sapph\source\repos\badcmd\badcmd\bin\Debug\badcmd.exe
+C:\Users\sapph\source\repos\badcmd\badcmd\bin\Debug\badcmd.pdb
+C:\Users\sapph\source\repos\badcmd\badcmd\obj\Debug\badcmd.csproj.AssemblyReference.cache
+C:\Users\sapph\source\repos\badcmd\badcmd\obj\Debug\badcmd.csproj.CoreCompileInputs.cache
+C:\Users\sapph\source\repos\badcmd\badcmd\obj\Debug\badcmd.exe
+C:\Users\sapph\source\repos\badcmd\badcmd\obj\Debug\badcmd.pdb
+C:\Users\sapph\source\repos\badcmd\badcmd\obj\Debug\badcmd.exe.config
