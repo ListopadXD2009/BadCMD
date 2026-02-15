@@ -35,19 +35,14 @@ namespace badcmd
             process.WaitForExit();
         }
 
-        // this is so fucking useless
-        public static void ExecutePrompt()
-        {
-            Prompt();
-        }
-
         [STAThread]
         public static void Main(string[] szArguments)
         {
             Console.WriteLine("BadCMD by SapphireTech/Aubrey, Licensed under MIT license.");
             Console.WriteLine("A bad open source attempt at making a command prompt for Windows\n");
 
-            ExecutePrompt();
+            Prompt();
         }
     }
 }
+
